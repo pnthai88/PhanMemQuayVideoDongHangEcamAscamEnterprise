@@ -1,12 +1,9 @@
-# PhanMemQuayVideoDongHangEcamAscamEnterprise
-Phần mềm quay video đóng hàng E-CAM ECAM ASCAM
-
-# https://docs.google.com/document/d/1fHf4IGzDzHW5NQ3BLw0LL2Eg2a3QlwURwitFHxsTVxA/edit?tab=t.0
-
 Phần mềm quản lý ghi hình bằng chứng đóng gói hàng hóa ASCAM
 Website: https://ghihinh.com/  Phần mềm ASCAM / ECAM của PMCS TECH là giải pháp tối ưu cho quản lý đóng gói hàng hóa với tính năng quay video và lưu trữ video theo từng đơn hàng, không giới hạn số lượng và thời lượng. Phần mềm hỗ trợ ghi hình bàn giao hàng, hiển thị thông tin chi tiết đơn hàng ngay trên video, và kết nối đa camera, thích hợp cho nhiều bàn đóng hàng. Được tích hợp với Amazon S3, phần mềm cho phép lưu trữ đám mây linh hoạt và cung cấp thống kê hiệu suất đóng hàng của nhân viên. Sử dụng dễ dàng với thao tác quét mã QR, ASCAM / ECAM giúp tiết kiệm thời gian và nâng cao năng suất. 
 Phần mềm ASCAM / ECAM phát triển dựa trên nền tảng ý kiến chung của khách hàng, tối ưu các thao tác tối đa nhất có thể, lưu trữ tiết kiệm tại máy tính nói không với các "bánh vẽ" lưu trữ cloud tốn kém đắt đỏ không cần thiết. Tiết kiệm nhất có thể cho doanh nghiệp và các nhà bán hàng trên các sàn TMDT.
 Chúng tôi đem đến "tấm khiên" bảo vệ quyền lợi hợp pháp của người bán hàng.
+
+# https://docs.google.com/document/d/1jL3TCNIYh4NpO_1CMg7Ex7iAeCBdaEA-PcCtwYDTc_c/edit?tab=t.0
 
 Thông tin liên hệ
 Địa chỉ
@@ -468,3 +465,7 @@ https://metaldevastationradio.com/ascamghihinhdonghang
 https://zbato.org/u/2301894-ascamghihinhdonghang
 204
 https://comiko.net/u/2301894-ascamghihinhdonghang
+205
+https://ghihinh.com/trien-khai-thuc-te/
+206
+https://ghihinh.com/huong-dan-quay-video-dong-hang/
